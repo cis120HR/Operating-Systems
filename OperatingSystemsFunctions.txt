@@ -1,0 +1,5 @@
+An operating sits between you and the hardware. It allows use to communicate
+with hardware. The applications or software we use sit in the operating system.
+We communicate with this software and the operating system communicates with
+the hardware.
+ 
